@@ -1,0 +1,9 @@
+*.class
+*.log*
+*.classpath
+*.project
+*.checkstyle
+*.orig
+target/
+#ignore thumbnails created by windows
+Thumbs.db
