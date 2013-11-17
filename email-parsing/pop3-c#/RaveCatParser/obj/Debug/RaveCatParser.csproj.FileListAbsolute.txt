@@ -1,0 +1,12 @@
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\bin\Debug\RaveCatParser.exe.manifest
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\bin\Debug\RaveCatParser.application
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\bin\Debug\RaveCatParser.exe
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\bin\Debug\RaveCatParser.pdb
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\obj\Debug\RaveCatParser.Properties.Resources.resources
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\obj\Debug\RaveCatParser.RaveCat.resources
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\obj\Debug\RaveCatParser.csproj.GenerateResource.Cache
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\obj\Debug\RaveCatParser.exe.manifest
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\obj\Debug\RaveCatParser.application
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\obj\Debug\RaveCatParser.exe
+C:\Users\RockyBst\Desktop\Files\Code\Code(C#)\RaveCatParser\obj\Debug\RaveCatParser.pdb
